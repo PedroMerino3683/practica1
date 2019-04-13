@@ -1,2 +1,3 @@
 # practica1
-Mario Hernández
+Pedro Merino Cebada
+Estanislao Leal Morales
